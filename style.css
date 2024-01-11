@@ -1,0 +1,62 @@
+body{
+    background-size: auto;
+    background-color: rgb(229, 239, 94);
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+    margin-right: 50px;
+
+}
+.main-box{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 150px;
+}
+.main2-box{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.box1{
+    font-family: cursive;
+}
+.box2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box3{
+    display: flex;
+    font-family: cursive;
+}
+.box3-text{
+    width: 51vb;
+    color: rgb(97, 85, 85);
+}
+.box4{
+    font-family: cursive;
+    display: flex;
+    
+}
+
+.address{
+    display: flex;
+    margin-right: 325px;
+    flex-direction: column;
+}
+
+.phone-no{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.box6{
+    display: flex;
+    justify-content: center;
+
+}
